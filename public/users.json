@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Anastasia",
+    "email": "anastasia.miroshina@gmail.com",
+    "behanceLink": "https://www.behance.net/nastya/",
+    "photo": "https://cdn.dribbble.com/users/2751498/avatars/normal/data?1541247966",
+    "password": "Abc#ds543&dsKm",
+    "createdAt": 1609459234562,
+    "usersInvited": "15",
+    "balance": "2500",
+    "moneySpent": "1000",
+    "likesDelivered": "2562",
+    "connectedSocials": {
+      "facebook": "https://ru-ru.facebook.com/AnastasiyaMiroshina",
+      "twitter": "https://twitter.com/nastasiya_mir",
+      "vk": "https://vk.com/nastasiyamir"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Alexander",
+    "email": "alexander.herzog@gmail.com",
+    "dribbbleLink": "https://dribbble.com/alexander-herzog",
+    "behanceLink": "https://www.behance.net/iamherzog",
+    "photo": "https://avatars.githubusercontent.com/u/24212244?v=4",
+    "password": "Bbc#ds543&dsKm",
+    "createdAt": 1609459234562,
+    "usersInvited": "15",
+    "balance": "2500",
+    "moneySpent": "1000",
+    "likesDelivered": "2562",
+    "connectedSocials": {
+      "facebook": "https://www.facebook.com/public/Alexander-Herzog",
+      "twitter": "https://twitter.com/alexhz"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tran Mau Tri Tam",
+    "email": "tran.mau@gmail.com",
+    "dribbbleLink": "https://dribbble.com/tranmautritam",
+    "behanceLink": "https://www.behance.net/tranmautritam",
+    "photo": "https://mir-s3-cdn-cf.behance.net/user/115/c9664e1157807.5e7244fcbd47f.png",
+    "password": "Cbc#ds543&dsKm",
+    "createdAt": 1609459234562,
+    "usersInvited": "15",
+    "balance": "2500",
+    "moneySpent": "1000",
+    "likesDelivered": "2562",
+    "connectedSocials": {}
+  },
+  {
+    "id": 4,
+    "name": "Martin David",
+    "email": "martin.david@gmail.com",
+    "dribbbleLink": "https://dribbble.com/srioz",
+    "behanceLink": "https://www.behance.net/srioz",
+    "photo": "https://mir-s3-cdn-cf.behance.net/user/115/f239ed1843837.5d888ba2db6e5.png",
+    "password": "Dbc#ds543&dsKm",
+    "createdAt": 1609459234562,
+    "usersInvited": "15",
+    "balance": "2500",
+    "moneySpent": "1000",
+    "likesDelivered": "2562",
+    "connectedSocials": {}
+  },
+  {
+    "id": 5,
+    "name": "Dinawan",
+    "email": "dwinawan@gmail.com",
+    "dribbbleLink": "https://dribbble.com/dwinawan",
+    "behanceLink": "https://www.behance.net/dwinawan",
+    "photo": "https://cdn.dribbble.com/users/33073/avatars/normal/d9e19216dce321777fecd4997ea55f5c.png?1530166659",
+    "password": "Ebc#ds543&dsKm",
+    "createdAt": 1609459234562,
+    "usersInvited": "15",
+    "balance": "2500",
+    "moneySpent": "1000",
+    "likesDelivered": "2562",
+    "connectedSocials": {}
+  },
+  {
+    "id": 6,
+    "name": "Anton Tkachev",
+    "email": "ovisoq@gmail.com",
+    "dribbbleLink": "https://dribbble.com/keeplegend",
+    "behanceLink": "https://www.behance.net/unfamiliarceiling",
+    "photo": "https://cdn.dribbble.com/users/1145170/avatars/normal/0541d859b3f46a0815e745327a0ce548.jpg?1502391051",
+    "password": "Ebc#ds543&dsKm",
+    "createdAt": 1609459234562,
+    "usersInvited": "15",
+    "balance": "2500",
+    "moneySpent": "1000",
+    "likesDelivered": "2562",
+    "connectedSocials": {}
+  },
+  {
+    "id": 7,
+    "name": "Adam Anderson",
+    "email": "adam.anderson@gmail.com",
+    "dribbbleLink": "https://dribbble.com/Double_A_Creative",
+    "photo": "https://cdn.dribbble.com/users/1145170/avatars/normal/0541d859b3f46a0815e745327a0ce548.jpg?1502391051",
+    "password": "Ebc#ds543&dsKm",
+    "createdAt": 1609459234562,
+    "usersInvited": "15",
+    "balance": "2500",
+    "moneySpent": "1000",
+    "likesDelivered": "2562",
+    "connectedSocials": {}
+  }
+]
